@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node ./node_modules/jest/bin/jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoBaume/fizzbuzz.git"
+  },
   "author": "RodolfoBaume",
   "license": "ISC",
   "devDependencies": {
